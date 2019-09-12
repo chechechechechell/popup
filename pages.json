@@ -3,12 +3,14 @@
 		{
 			"path": "pages/index/index",
 			"style": {
-				"navigationBarTitleText": "popup"
+				"navigationBarTitleText": "index"
 			}
 		}
 	    ,{
             "path" : "pages/components/popup/popup",
-            "style" : {}
+            "style" : {
+				"navigationBarTitleText": "popup"
+			}
         }
     ],
 	"globalStyle": {
